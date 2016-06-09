@@ -2,7 +2,6 @@
 <Product xmlns='http://code.google.com/p/open-zwave/'>
 
 <!--
-	Qubino: ZMNHODx Flush shutter DC zwave+
 
     ZMNHOD1 868,4 MHz
     ZMNHOD2 921,4 MHz
@@ -152,5 +151,7 @@
 
 	<!-- Map endpoints to instances -->
 	<CommandClass id="96" mapping="endpoints" />
+
+</Product>
 
 </Product>
