@@ -58,13 +58,13 @@ DISTFILES =	.gitignore \
 	config/aeotec/zw074.xml \
 	config/aeotec/zw075.xml \
 	config/aeotec/zw078.xml \
-	config/aeotec/zw079.xml \
 	config/aeotec/zw080.xml \
 	config/aeotec/zw088.xml \
 	config/aeotec/zw089.xml \
 	config/aeotec/zw090.xml \
 	config/aeotec/zw095.xml \
 	config/aeotec/zw096.xml \
+	config/aeotec/zw097.xml \
 	config/aeotec/zw098.xml \
 	config/aeotec/zw099.xml \
 	config/aeotec/zw100.xml \
@@ -90,6 +90,7 @@ DISTFILES =	.gitignore \
 	config/duwi/ZWES1000.xml \
 	config/duwi/ZWESJ300.xml \
 	config/duwi/zwfb.xml \
+	config/electronicsolutions/dbmz.xml \
 	config/enerwave/zw15s.xml \
 	config/enerwave/zw20r.xml \
 	config/enerwave/zw20rm.xml \
@@ -126,6 +127,7 @@ DISTFILES =	.gitignore \
 	config/fibaro/fgd211.xml \
 	config/fibaro/fgd212.xml \
 	config/fibaro/fgfs101.xml \
+	config/fibaro/fgfs101zw5.xml \
 	config/fibaro/fggc001.xml \
 	config/fibaro/fgk001.xml \
 	config/fibaro/fgms.xml \
@@ -195,6 +197,7 @@ DISTFILES =	.gitignore \
 	config/philio/pan04.xml \
 	config/philio/pan08.xml \
 	config/philio/phpat02.xml \
+	config/philio/phpsg01.xml \
 	config/philio/pse02.xml \
 	config/philio/psm02.xml \
 	config/philio/psr04.xml \
@@ -232,12 +235,14 @@ DISTFILES =	.gitignore \
 	config/qubino/ZMNHSDx.xml \
 	config/qubino/ZMNHTDx.xml \
 	config/qubino/ZMNHUD1.xml \
+	config/qubino/ZMNHZDx.xml \
 	config/rcs/em52-zw.xml \
 	config/rcs/pm12-zw.xml \
 	config/rcs/therm0005.xml \
 	config/rcs/therm0007.xml \
 	config/rcs/therm0009.xml \
 	config/remotec/zfm-80.xml \
+	config/remotec/zrc-90.xml \
 	config/remotec/zts-110.xml \
 	config/remotec/zurc.xml \
 	config/remotec/zxt-120.xml \
@@ -245,6 +250,7 @@ DISTFILES =	.gitignore \
 	config/schlagelink/itemp.xml \
 	config/schlagelink/minikeypad.xml \
 	config/sensative/strips.xml \
+	config/stelpro/stzw402.xml \
 	config/swiid/swiidinter.xml \
 	config/swiid/swiidplug.xml \
 	config/thermofloor/heatit021.xml \

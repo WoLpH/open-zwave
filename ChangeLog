@@ -62,6 +62,22 @@ Version 1.5
  - Add Wall Dimmer Set for Busch-Jaeger DURO 2000 (Nechry)
  - Issue #900 - update ZME_WCD2 config file from gomba777 (Justin)
  - Issue #907 - Undocumented Vision ZD2102-5 Alarm Report response mark open contact as closed from NotTheEvilOne (Nechry)
+ - Add Qubino ZMNHZDx Weather Station Z-Wave+ (Nechry)
+ - Add Fibaro FGFS101 Zwave+ Flood Sensor (Nechry)
+ - Add Zipato PH-PSG01 Smoke Sensor (Nechry)
+ - Pull Request #909 - Add devices Leviton DZPD3-1LW and DZPA1-1LW from benweb (Nechry)
+ - Pull Request #910 - Add device Assa Abloy Yale Key Free Push Button Deadbolt from benweb (Nechry)
+ - Pull Request #913 - Add device Stelpro Electronic Thermostat STZW402+ from benweb (Nechry)
+ - Pull Request #911 - Added Ecolink door/window sensor and fixed Ecolink PIR Motion sensor from gdombiak (Nechry)
+ - Add Electronic Solutions Inc DBMZ Motor Control (Nechry)
+ - Add Remotec ZRC-90 (Nechry)
+ - Pull Request #914 - Update tz66d.xml from saintman23 (Nechry)
+ - Pull Request #915 - Update manufacturer_specific.xml saintman23 (Nechry)
+ - Pull Request #925 - Adds support for the AU/NZ frequency of the Fibaro Door and Window Sensor, FGK101. philhawthorne (Nechry)
+ - Issue #924 - Fix Mem Leak in SwitchMultiLevel from jmattioni (Justin)
+ - Pull Request #929 - Update manufacturer_specific.xml from saintman23 (Nechry)
+ - Pull Request #930 - Update manufacturer_specific.xml from saintman23 (Nechry)
+ - Pull Request #934 - Manufacturer ID for AU NZ update from Dilepa (Nechry)
 
 Version 1.4
  - Released 10th Jan, 2016
