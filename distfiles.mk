@@ -19,6 +19,7 @@ DISTFILES =	.gitignore \
 	config/BeNext/HeatingControl.xml \
 	config/BeNext/Molite.xml \
 	config/BeNext/PanicButton.xml \
+	config/BeNext/PanicWatch.xml \
 	config/BeNext/PluginDimmer.xml \
 	config/BeNext/SceneController.xml \
 	config/BeNext/TagReader.xml \
@@ -85,6 +86,7 @@ DISTFILES =	.gitignore \
 	config/device_configuration.xsd \
 	config/devolo/mt02648.xml \
 	config/devolo/mt2646.xml \
+	config/devolo/mt2647.xml \
 	config/dlink/dch-z110.xml \
 	config/dlink/dch-z120.xml \
 	config/dlink/dch-z510.xml \
@@ -135,6 +137,7 @@ DISTFILES =	.gitignore \
 	config/fibaro/fgfs101zw5.xml \
 	config/fibaro/fggc001.xml \
 	config/fibaro/fgk001.xml \
+	config/fibaro/fgk10x.xml \
 	config/fibaro/fgms.xml \
 	config/fibaro/fgpb101.xml \
 	config/fibaro/fgr221.xml \
@@ -273,9 +276,11 @@ DISTFILES =	.gitignore \
 	config/shenzen_neo/nas-ds01z.xml \
 	config/shenzen_neo/nas-pd01z.xml \
 	config/shenzen_neo/nas-wr01z.xml \
+	config/shenzen_neo/nas-ws02z.xml \
 	config/stelpro/stzw402.xml \
 	config/swiid/swiidinter.xml \
 	config/swiid/swiidplug.xml \
+	config/telldus/tzdw100.xml \
 	config/thermofloor/heatit021.xml \
 	config/trane/TZEMT400AB32MAA.xml \
 	config/trane/TZEMT400BB32MAA.xml \
@@ -305,6 +310,7 @@ DISTFILES =	.gitignore \
 	config/widom/WDS.xml \
 	config/zipato/MiniKeypad.xml \
 	config/zipato/RGBBulb.xml \
+	config/zooz/zen07.xml \
 	config/zwave.me/ZME_05431.xml \
 	config/zwave.me/ZME_06433.xml \
 	config/zwave.me/ZME_06436.xml \
